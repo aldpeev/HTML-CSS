@@ -1,0 +1,12 @@
+body {background-color: #CCCCCC}
+nav { display: flex; justify-content: center; align-items: center; background-color: #444; }
+ul { display: flex; font-size: 20px;}
+ul li { list-style: none;}
+a { color: #fff; text-decoration: none; padding: 20px;}
+
+article h1 { font-size: 28px;}
+article header p {font-style: italic;}
+article > p { font-size: 24px;}
+section {margin-left: 20px;}
+
+footer { text-align: center; background-color: #444; color: #fff; padding: 10px;}
