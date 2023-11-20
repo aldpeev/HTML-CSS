@@ -1,0 +1,13 @@
+/* Main Css */
+body {font-family: 'Poppins', sans-serif;}
+.hero {display: flex; max-width: 1400px; justify-content: space-between; gap: 30px; align-items: center; margin: 0 auto;}
+.hero article {background-color: #819DAF; border-radius: 20px; overflow: hidden; width: 33.33%;}
+.hero article .image img { width: 100%; border-radius: 20px;}
+.hero article .content{ padding: 15px 20px; }
+.hero article .content h1{font-size: 25px;}
+.hero article .content p{margin-bottom: 20px; font-size: 17px;}
+.hero article .content button{border-radius: 50px; padding: 5px 20px; color: #fff; background-color: #327DC4; border: 1px solid #fff; margin-bottom: 10px;}
+
+header{ text-align: center;}
+header h1>span {color:#327DC4;}
+header h4 {font-weight: 400; margin:10px 0px 20px 0px;}

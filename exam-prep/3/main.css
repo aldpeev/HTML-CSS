@@ -1,0 +1,40 @@
+/* Main Css */
+
+/* Header */
+body {font-family: 'PT Sans', sans-serif; margin: 0px}
+header .upper-info {background-color: #D01919; display: flex; justify-content: space-between; color: #fff; padding: 0 64px;}
+header .upper-info i{color: #fff;}
+header .upper-info .phone, header .location, header .socials { display: flex; align-items: center; gap: 10px;}
+
+/* Nav */
+.navigation .nav-list{margin: 0; display: flex; gap: 60px; justify-content: end; padding: 25px 64px; position: relative; z-index: 1;}
+.navigation .nav-list .nav-item a{color: #fff; text-decoration: none; }
+
+/* Hero */
+.hero {margin-top: -74px; background: url(img/fitness-main.jpg); width: 100%; height: 50vh; background-size: cover; background-position: center; display: flex; align-items: center; justify-content: center; flex-flow: column;}
+.hero h1{color: #fff; font-size: 48px; letter-spacing: 10px;}
+.hero p{color: #fff;width: 30%; text-align: center; margin-top: 30px;}
+.hero button{    background-color: #D01919; color: #fff; border-radius: 5px; border: unset; padding: 6px 20px; margin-top: 35px; cursor: pointer;font-weight: bold; letter-spacing: 1px;}
+
+/* General */
+.title-section span {background-color: #D01919; width: 45px; height: 3px; margin: auto;display: block; margin-top: 20px;}
+.title-section {text-align: center; font-size: 36px;}  
+
+/* Welcome */
+ .welcome .welcome-wrapper { display: flex; justify-content: space-around; padding-bottom: 60px;}
+ .welcome .welcome-info{text-align: center; width: 20%; padding-top: 40px;}
+ .welcome .welcome-info img{width: 60px; display: inline;}
+ .welcome .welcome-info h3{color: #D01919;}
+
+ /* Coaches */
+ .coaches {background-color: #EFEFEF;}
+ .coaches .coaches-title {padding-top: 40px;}
+ .coaches .coaches-wrapper { display: flex; justify-content: space-around; padding-bottom: 60px;}
+ .coaches .coaches-info{ text-align: center; width: 20%; padding-top: 40px;}
+ .coaches .coaches-info img{width: 100%; display: inline; border-radius: 5px;}
+ .coaches .coaches-info h4{color: #D01919; margin-top: 10px; }
+ .coaches .coaches-info p{ color: #ADABBA;}
+
+/* Footer  */
+footer{text-align: center; background-color: #D01919; padding: 10px 0;}
+footer p{margin-top: 0px; font-size: 18px;} 
