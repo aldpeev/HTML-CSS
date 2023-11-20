@@ -1,0 +1,4 @@
+body { background-color:  lightslategray;}
+
+section { display: grid; justify-content: center;}
+section p { width: 340px; background-color: #0F4069; color: white; box-sizing: border-box; padding: 25px 20px; border: 2px solid #e6eaef; border-radius: 15px 50px; }
