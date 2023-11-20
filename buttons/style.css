@@ -1,0 +1,7 @@
+a{ text-decoration: none;}
+a:visited { color: black;}
+.btn {border-radius: 50px; border: 2px solid; padding: 5px 10px; background-color: #fff; cursor: pointer; font-weight: bold; font-size: 15px; font-family: sans-serif;}
+.btn.hover:hover{ border-color: green; color: green;}
+.fill.btn {background-color: rgb(82, 79, 79); color: white; border-color: rgb(82, 79, 79);}
+.fill.btn.hover:hover { background-color: green; color: #fff;}
+
