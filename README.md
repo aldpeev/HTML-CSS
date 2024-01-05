@@ -1,2 +1,4 @@
 # HTML-CSS
- SoftUni - HTML & CSS
+- Here are all the labs and exercises I've completed as part of the HTML & CSS course provided by SoftUni.
+
+- The aim of the course "HTML & CSS" is to provide basic knowledge of web technologies and more specifically familiarization with HTML5 and CSS3. Students will acquire basic knowledge in web development, web browsers, tools for HTML/CSS/DOM development and develop practical skills in using the Web Content Description Language (HTML) and the Web Content Styling Language (CSS). Basic HTML tags, paragraphs, lists, tables, forms, controls, and semantic HTML tags will be studied. Emphasis is on basic CSS selectors and styles, working with classes, presentation rules, positioning and layout rules in CSS. The latest developments in the HTML5 and CSS3 standards are covered. The course will emphasize hands-on HTML and CSS exercises that will involve students in real-world web design projects, implementing site fragments, and creating complete modern websites with a good look, modern structure, and mobile support.
